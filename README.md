@@ -1,4 +1,6 @@
 tuto2-customer-api
 ==================
 
-A Symfony project created on December 20, 2015, 12:20 pm.
+An example to explain how to secure an API with OAuth.
+
+Find the tutorial [there](blog.ajouve.com/symfony2/oauth2/microservice/2015/12/19/oauth-microservice-symfony.html) 
