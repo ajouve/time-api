@@ -7,7 +7,7 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Symfony\Component\HttpFoundation\JsonResponse;
 
 /**
- * @Route("/time")
+ * @Route("/api/time")
  */
 class DateController
 {
